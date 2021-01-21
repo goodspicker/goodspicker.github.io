@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+title: Dzhavat Ushev’s blog
+description: Welcome to my blog
+author: Dzhavat Ushev
